@@ -1,0 +1,11 @@
+Major Issues:
+      1. rcos(phi) matlab
+      2. gradient matlab (how to get to not evaluate constants but still do the integral?)
+      3. Python needs to expand to more than just base point analysis (random # generator)
+      
+Glaring Problems:
+      1. No 3D
+      2. Linear only y=x
+      3. Plotting
+      4. I dont trust the E
+      
