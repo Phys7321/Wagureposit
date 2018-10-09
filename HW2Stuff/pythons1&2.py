@@ -61,3 +61,4 @@ mplot.figure(1)
 mplot.contour(x2a,y2a,vtot,N,cmap = 'coolwarm')
 mplot.quiver(x2a,y2a,e2x,e2y)
 
+#definite graph issue
