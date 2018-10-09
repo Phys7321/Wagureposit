@@ -34,3 +34,4 @@ mplot.contour(xa,ya,v,N, cmap="coolwarm")
 mplot.quiver(xa,ya,ex,ey)
 
 mplot.show
+#graph issue?
