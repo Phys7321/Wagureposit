@@ -1,3 +1,6 @@
 # Feedback
 10.8
 If looks like you're still working on 2.3 and 2.4? I can't run your 2.1&2.2 code since it depends on another file, alwasy include the necessary programs if you refer to them. Also, don't use characters like &*#@ in the names of your programs, it will definitely cause problems, if not now, then later.
+10.12
+don't use characters like &*#@ or periods '.' in the names of your programs it will definitely cause problems, if not now, then later.
+I'm happy with 2.3 and 2.4 except that your program doesn't print the altitude where the two gravitational assumptions diverge by 1% that you supposedly find - I'll look into that. You also need tweak the graphs in 2.1 and 2.2, they should look very similar, the rk4 methods should converge just a bit faster. (There shouldn't be multiple lines printed, we're looking at the value of the temperature at a specific time vs the step number, not time anymore.)
