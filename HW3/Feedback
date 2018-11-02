@@ -1,0 +1,5 @@
+HW3 is a long one:
+Problem 1 I'm mostly happy with. I think there are some relic plots being produced that aren't asked for (they appear to be from my original program that you should delete)
+Problem 2 appears to be a repeat of one - you're missing the period versus initial conditions plots.
+Problem 3 is half way there, I'd like to see some phase plots and an events function stopping the integration of ode45.
+I do like that you are using functions for much of the functionality and then manipulating that data in while loops. you save yourself a lot of coding by doing this.
