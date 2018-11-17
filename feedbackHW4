@@ -1,0 +1,4 @@
+11.17
+Finally getting around to HW4:
+On problem 1, it appears that your autocorrelation test fails pretty badly, but you said it passed, why? What value should the autocorr have?
+On problem 2, you've nailed down the relation between acceptance rate and the step delta, but you didn't seem to address anything to do with the the equilibration time. This IS a fuzzy concept, but you should try to address it in your code.
